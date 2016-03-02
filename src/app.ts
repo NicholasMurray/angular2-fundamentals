@@ -9,4 +9,8 @@
 //import "./lessons/10-properties/main";
 //import "./lessons/11-using-input/main";
 //import "./lessons/12-ng-class-and-styling-components/main";
-import "./lessons/13-style-encapsulation/main";
+//import "./lessons/13-style-encapsulation/main";
+//import "./lessons/14-using-pipes/main";
+//import "./lessons/15-pipes-and-immutability/main";
+//import "./lessons/16-refactoring-todo-updates/main";
+import "./lessons/17-selecting-pipe-params/main";
